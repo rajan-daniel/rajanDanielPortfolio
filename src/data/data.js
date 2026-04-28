@@ -1,8 +1,8 @@
 export const about = {
     name: "Rajan Daniel",
     role: "Full Stack Web Developer",
-    about: "A minimal, clean portfolio template built with Next.js. Perfect for developers who want a simple yet professional online presence without the complexity.",
-    email: "your.email@example.com",
+    about: "I’m a self-taught junior full-stack web developer with an early background in C++ and Java. After completing freeCodeCamp, I transitioned into building modern web applications using React, Next.js, TypeScript, Tailwind and Supabase. I’m comfortable working across the full stack—from building responsive UIs to handling authentication, APIs, and databases—and I regularly ship and deploy projects. I focus on writing clean code, building real-world features, and communicating my work clearly.",
+    email: "rajan.daniel.dev@gmail.com",
 };
 
 export const seo = {
@@ -16,12 +16,12 @@ export const forms = {
 }
 
 export const skills = [
-    { name: "Html", alt: "html logo", icon: "/html.svg" },
-    { name: "Css", alt: "css logo", icon: "/css.svg" },
-    { name: "Js", alt: "js logo", icon: "/js.svg" },
-    { name: "React Js", alt: "react logo", icon: "/react.svg" },
+    { name: "HTML", alt: "html logo", icon: "/html.svg" },
+    { name: "CSS", alt: "css logo", icon: "/css.svg" },
+    { name: "JS", alt: "js logo", icon: "/js.svg" },
+    { name: "React JS", alt: "react logo", icon: "/react.svg" },
     { name: "TypeScript", alt: "typscript logo", icon: "/typscript.svg"},
-    { name: "Next Js", alt: "nextjs logo", icon: "/nextjs.svg" },
+    { name: "Next JS", alt: "nextjs logo", icon: "/nextjs.svg" },
     { name: "Tailwind", alt: "tailwind logo", icon: "/tailwind.svg" },
     { name: "SupaBase", alt: "supabase logo", icon: "/supabase.svg" },
 ];
@@ -42,47 +42,12 @@ export const projects = {
             tags: ["CSS", "React Js"],
             link: "",
         },
-        {
-            title: "Project 2",
-            description:
-                "A clean, minimal blog setup featuring dynamic content, category filters, and easy-to-read layouts. Perfect for sharing your ideas.",
-            tags: ["CSS", "React Js"],
-            link: "",
-        },
-        {
-            title: "Project 3",
-            description:
-                "A fast and scalable online store with product listings, cart functionality, and seamless checkout experience. Built for performance.",
-            tags: ["CSS", "React Js"],
-            link: "",
-        },
     ],
     otherProjects: [
-        {
-            title: "Project 4",
-            description:
-                "A sleek, modern portfolio site to showcase your work and skills. Responsive design with smooth navigation and SEO optimization.",
-            tags: ["CSS", "React Js"],
-            link: "",
-        },
-        {
-            title: "Project 5",
-            description:
-                "A clean, minimal blog setup featuring dynamic content, category filters, and easy-to-read layouts. Perfect for sharing your ideas.",
-            tags: ["CSS", "React Js"],
-            link: "",
-        },
-        {
-            title: "Project 6",
-            description:
-                "A fast and scalable online store with product listings, cart functionality, and seamless checkout experience. Built for performance.",
-            tags: ["CSS", "React Js"],
-            link: "",
-        },
     ],
 };
 
-export const experience = [
+export const roadmap = [
     {
         title: "Frontend Developer at Tech Solutions",
         description:
