@@ -1,6 +1,6 @@
 export const about = {
-    name: "Your Name",
-    role: "Your Profession",
+    name: "Rajan Daniel",
+    role: "Full Stack Web Developer",
     about: "A minimal, clean portfolio template built with Next.js. Perfect for developers who want a simple yet professional online presence without the complexity.",
     email: "your.email@example.com",
 };
@@ -19,13 +19,15 @@ export const skills = [
     { name: "Html", alt: "html logo", icon: "/html.svg" },
     { name: "Css", alt: "css logo", icon: "/css.svg" },
     { name: "Js", alt: "js logo", icon: "/js.svg" },
-    { name: "Tailwind", alt: "tailwind logo", icon: "/tailwind.svg" },
     { name: "React Js", alt: "react logo", icon: "/react.svg" },
+    { name: "TypeScript", alt: "typscript logo", icon: "/typscript.svg"},
     { name: "Next Js", alt: "nextjs logo", icon: "/nextjs.svg" },
+    { name: "Tailwind", alt: "tailwind logo", icon: "/tailwind.svg" },
+    { name: "SupaBase", alt: "supabase logo", icon: "/supabase.svg" },
 ];
 
 export const socials = {
-    github: "https://github.com/sachinbhujel",
+    github: "https://github.com/rajan-daniel",
     twitter: "https://twitter.com/sachinbhujel909",
     instagram: "https://www.instagram.com/imsachinbhujel",
     facebook: "https://www.facebook.com/imsachinbhujel",
