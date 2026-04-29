@@ -12,15 +12,14 @@ export default function About() {
                         {about.about}
                     </p>
                     <p className="text-base text-base-content/80">
-                        If you’ve got any questions or just feel like chatting,
-                        send me an{" "}
+                        Feel free to explore my projects, tech stack, and approach to building applications below. I also share additional work over on GitHub if you’d like to dive deeper. If you’d like to connect or have any questions, don’t hesitate to reach out via{" "}
                         <a
                             href={`mailto:${about.email}`}
                             className="font-bold hover:underline cursor-pointer"
                         >
                             (Email)
                         </a>{" "}
-                        I’d love to hear from you.
+                        Thanks for stopping by, and have an awesome rest of your day!
                     </p>
                 </div>
             </div>

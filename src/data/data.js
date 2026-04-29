@@ -1,7 +1,7 @@
 export const about = {
     name: "Rajan Daniel",
     role: "Full Stack Web Developer",
-    about: "I’m a self-taught junior full-stack web developer with an early background in C++ and Java. After completing freeCodeCamp, I transitioned into building modern web applications using React, Next.js, TypeScript, Tailwind and Supabase. I’m comfortable working across the full stack—from building responsive UIs to handling authentication, APIs, and databases—and I regularly ship and deploy projects. I focus on writing clean code, building real-world features, and communicating my work clearly.",
+    about: "hello! I’m Rajan, a full-stack web developer specializing in building modern, production-ready applications with React, Next.js, TypeScript, Tailwind, and Supabase. I develop end-to-end solutions—handling frontend, backend logic, APIs, authentication, and databases—while focusing on performance, scalability, and clean architecture. I’m driven by solving real problems and consistently improving through hands-on project development.",
     email: "rajan.daniel.dev@gmail.com",
 };
 
@@ -49,16 +49,16 @@ export const projects = {
 
 export const roadmap = [
     {
-        title: "Frontend Developer at Tech Solutions",
+        title: "Introduction to Software Development",
         description:
-            "Worked on building and maintaining responsive web applications using React.js and Next.js, improving UI performance and user experience.",
-        date: "15/01/2024",
+            "First introduced to software development by scaffolding fundamental programming concepts using C++, Java & Discord.js. First small project was a discord bot made using Discord.js a Node.js library for developing Discord bots.",
+        date: "12/27/2015",
     },
     {
-        title: "Web Developer Intern at Creative Studio",
+        title: "Obtained Bachelor of Science in Computer Information Systems",
         description:
-            "Assisted in designing website layouts, wrote clean HTML/CSS code, and collaborated with the team on JavaScript features for client projects.",
-        date: "10/06/2023",
+            "Coursework in full-stack development using C++ and Java (NetBeans) with MySQL databases, covering object-oriented programming, backend logic, database design, web security, cloud computing, and networking fundamentals.",
+        date: "02/24/2024",
     },
     {
         title: "Junior Developer at Innovate Labs",
