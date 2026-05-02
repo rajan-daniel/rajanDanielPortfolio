@@ -64,10 +64,28 @@ export const roadmap = [
   },
   {
     title: "freeCodeCamp Certifications",
-    description: `- Responsive Web Design: HTML5, CSS3, Flexbox, Grid, accessibility, responsive layouts
-- JavaScript Algorithms and Data Structures: ES6+, OOP, functional programming, data structures, algorithmic problem solving
-- Front End Development Libraries: React, Redux, Bootstrap, jQuery, SASS, component-based UI development
-- Front End Projects: integrated all front-end skills by building multiple real-world projects demonstrating responsive design, JavaScript logic, and React-based interfaces`,
+    description: (
+      <>
+        <ul className="space-y-1">
+          <li>
+            <strong>Responsive Web Design:</strong> HTML5, CSS3, Flexbox, Grid,
+            accessibility, responsive layouts
+          </li>
+          <li>
+            <strong>JavaScript Algorithms and Data Structures:</strong> ES6+,
+            OOP, functional programming, data structures, algorithmic problem
+            solving
+          </li>
+          <li>
+            <strong>Front-End Development Libraries:</strong> React, Redux,
+            Bootstrap, jQuery, SASS, component-based UI development
+          </li>
+          <li>
+            <strong>Front-End:</strong> Capstone Certification
+          </li>
+        </ul>
+      </>
+    ),
     date: "12/14/2025 - 04/18/2026",
   },
 ];
