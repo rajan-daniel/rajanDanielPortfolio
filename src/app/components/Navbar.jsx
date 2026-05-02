@@ -67,7 +67,7 @@ export default function Navbar() {
                                         href="/#experience"
                                         className="hover:underline"
                                     >
-                                        Experience
+                                        Roadmap
                                     </Link>
                                 </li>
                                 <li>
@@ -79,7 +79,7 @@ export default function Navbar() {
                                     </Link>
                                 </li>
                             </ul>
-
+{/*
                             <Link
                                 href="/blogs"
                                 className="hover:underline hidden sm:block"
@@ -93,6 +93,7 @@ export default function Navbar() {
                             >
                                 {blogs ? "Home" : "Blogs"}
                             </Link>
+*/}
                         </div>
                         <div className="flex items-center gap-2">
                             <button

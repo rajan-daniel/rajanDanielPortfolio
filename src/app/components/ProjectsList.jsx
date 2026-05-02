@@ -41,7 +41,7 @@ export default function ProjectsList() {
                                     <path d="M10 6L10 8 22.59 8 6 24.59 7.41 26 24 9.41 24 22 26 22 26 6 10 6z"></path>
                                 </svg>
                             </div>
-                            <p className="text-base-content/80 text-sm sm:text-base">
+                            <p className="text-base-content/80 text-sm sm:text-base ">
                                 {item.description}
                             </p>
                             <div className="flex items-center flex-wrap gap-2 mt-1">
