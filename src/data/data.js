@@ -15,7 +15,7 @@ export const seo = {
 };
 
 export const forms = {
-  formspreeUrl: "https://formspree.io/f/<url>",
+  formspreeUrl: "https://formspree.io/f/xykokwby",
 };
 
 export const skills = [
@@ -29,20 +29,29 @@ export const skills = [
   { name: "SupaBase", alt: "supabase logo", icon: "/supabase.svg" },
 ];
 
+export const tools = [
+  { name: "Git", alt: "html logo", icon: "/git.svg" },
+  { name: "VS Code", alt: "css logo", icon: "/vscode.svg" },
+  { name: "Git Hub", alt: "js logo", icon: "/github.svg" },
+  { name: "Teams", alt: "react logo", icon: "/teams.svg" },
+  { name: "Zendesk", alt: "typscript logo", icon: "/zendesk.svg" },
+  { name: "Git Bash", alt: "nextjs logo", icon: "/gitbash.svg" },
+];
+
 export const socials = {
   github: "https://github.com/rajan-daniel",
-  twitter: "https://twitter.com/sachinbhujel909",
+  twitter: "",
   linkedin: "https://www.linkedin.com/in/rajandaniel/",
-  facebook: "https://www.facebook.com/imsachinbhujel",
+  facebook: "",
 };
 
 export const projects = {
   pinProjects: [
     {
-      title: "Project 1",
+      title: "Personal Portfolio",
       description:
-        "A sleek, modern portfolio site to showcase your work and skills. Responsive design with smooth navigation and SEO optimization.",
-      tags: ["CSS", "React Js"],
+        "A sleek, modern portfolio site to showcasing my work and skills. Responsive design with smooth navigation and SEO optimization.",
+      tags: ["Next JS", "Tailwind CSS"],
       link: "",
     },
   ],
@@ -87,6 +96,12 @@ export const roadmap = [
       </>
     ),
     date: "12/14/2025 - 04/18/2026",
+  },
+  {
+    title: "Project",
+    description:
+      "In progress...",
+    date: "🔴 IN PROGRESS 5/2/2026 - Present",
   },
 ];
 
