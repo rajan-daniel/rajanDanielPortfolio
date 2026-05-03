@@ -45,4 +45,5 @@ html, body {
   -ms-overflow-style: none;
    scroll-behavior: smooth;
    font-family: "Rethink Sans";
+   cursor: url('/cursor.png') 0 0, auto;
 }
