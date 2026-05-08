@@ -3,7 +3,7 @@ export const about = {
   role: "Full Stack Web Developer",
   about:
     "hello! I’m Rajan, a full-stack web developer specializing in building modern, production-ready applications with React, Next.js, TypeScript, Tailwind, and Supabase. I develop end-to-end solutions—handling frontend, backend logic, APIs, authentication, and databases—while focusing on performance, scalability, and clean architecture. I’m driven by solving real problems and consistently improving through hands-on project development.",
-  email: "rajan.daniel.dev@gmail.com",
+  email: "me@rajandaniel.com",
 };
 
 export const seo = {
