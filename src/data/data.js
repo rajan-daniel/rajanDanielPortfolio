@@ -59,7 +59,7 @@ export const projects = {
       description:
         "siteSprout is known for delivering a premium website scaffold that make building a professional brand presence simple and fast.",
       tags: ["TypeScript", "React", "NextJS", "Tailwind CSS", "Vercel"],
-      link: "",
+      link: "https://site-sprout-beta.vercel.app/",
     },
   ],
   otherProjects: [],
