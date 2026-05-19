@@ -24,9 +24,9 @@ export default function Roadmap() {
                   <h3 className="text-lg font-semibold text-base-content">
                     {item.title}
                   </h3>
-                  <p className="mt-0.5 text-sm text-base-content/80 whitespace-pre-line">
+                  <div className="mt-0.5 text-sm text-base-content/80 whitespace-pre-line">
                     {item.description}
-                  </p>
+                  </div>
                 </div>
               </li>
             ))}
