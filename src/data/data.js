@@ -54,6 +54,13 @@ export const projects = {
       tags: ["Next JS", "Tailwind CSS"],
       link: "",
     },
+    {
+      title: "siteSprout",
+      description:
+        "siteSprout is known for delivering a premium website scaffold that make building a professional brand presence simple and fast.",
+      tags: ["TypeScript", "React", "NextJS", "Tailwind CSS", "Vercel"],
+      link: "",
+    },
   ],
   otherProjects: [],
 };
@@ -97,11 +104,17 @@ export const roadmap = [
     ),
     date: "12/14/2025 - 04/18/2026",
   },
+    {
+    title: "Project: siteSprout",
+    description:
+      "Built an open-source website template using Next.js and Tailwind CSS with a centralized data structure that keeps all site content easy to manage from one file. Focused on responsive design, reusable components, scalability, and clean project organization while applying real-world development practices like maintainability, version control, and building developer-friendly systems.",
+    date: "5/11/2026 - Present",
+  },
   {
-    title: "Project",
+    title: "Solo Developing Websites for Small Businesses",
     description:
       "In progress...",
-    date: "🔴 IN PROGRESS 5/2/2026 - Present",
+    date: "🔴 IN PROGRESS 5/19/2026 - Present",
   },
 ];
 
