@@ -6,11 +6,11 @@ export default function Footer() {
                 <p className="text-xs">
                     This site uses{" "}
                     <a
-                        href="https://nextjs.org/"
+                        href="https://github.com/rajan-daniel/NextJS-Portfolio-Template"
                         target="_blank"
                         className="text-sm font-medium hover:underline"
                     >
-                        NextJS
+                        NextJS-Portfolio-Template
                     </a>{" "}
                 </p>
             </div>
