@@ -2,10 +2,10 @@ export const about = {
   name: "Rajan Daniel",
   role: "Full Stack Web Developer",
   about:
-    "hello! I’m Rajan, a full-stack web developer specializing in building modern, production-ready applications with React, Next.js, TypeScript, Tailwind, and Supabase. I develop end-to-end solutions—handling frontend, backend logic, APIs, authentication, and databases—while focusing on performance, scalability, and clean architecture. I’m driven by solving real problems and consistently improving through hands-on project development.",
+    "hello! I’m Rajan, a full-stack web developer building modern, production-ready applications using Typescript, React, Next.js, Tailwind CSS, and Supabase. I develop full-stack applications coding frontend, backends, APIs, authentication, and databases—while focusing on performance, scalability, and clean architecture and design. I focus on building out-of-the-box applications and services that users can start using right away.",
   email: "me@rajandaniel.com",
 };
-
+3
 export const seo = {
   title: `${about.name} | ${about.role}`,
   description:
@@ -51,7 +51,7 @@ export const projects = {
       title: "Personal Portfolio",
       description:
         "A sleek, modern portfolio site to showcasing my work and skills. Responsive design with smooth navigation and SEO optimization.",
-      tags: ["Next JS", "Tailwind CSS"],
+      tags: ["Javascript", "Next JS", "Tailwind CSS", "Vercel"],
       link: "",
     },
     {
@@ -60,6 +60,13 @@ export const projects = {
         "siteSprout is known for delivering a premium website scaffold that make building a professional brand presence simple and fast.",
       tags: ["TypeScript", "React", "NextJS", "Tailwind CSS", "Vercel"],
       link: "https://site-sprout-beta.vercel.app/",
+    },
+    {
+      title: "myBillTracker",
+      description:
+        "myBillTracker is a lightweight expense tracking application that helps users quickly log bills, monitor spending, and stay on top of their personal finances with a simple, clean workflow.",
+      tags: ["TypeScript", "React", "NextJS", "Tailwind CSS", "Supabase", "Vercel"],
+      link: "https://my-bill-tracker-alpha.vercel.app/",
     },
   ],
   otherProjects: [],
@@ -104,16 +111,21 @@ export const roadmap = [
     ),
     date: "12/14/2025 - 04/18/2026",
   },
-    {
+  {
     title: "Project: siteSprout",
     description:
       "Built an open-source website template using Next.js and Tailwind CSS with a centralized data structure that keeps all site content easy to manage from one file. Focused on responsive design, reusable components, scalability, and clean project organization while applying real-world development practices like maintainability, version control, and building developer-friendly systems.",
     date: "5/11/2026 - Present",
   },
   {
-    title: "Developing Websites for Small Businesses",
+    title: "Project: myBillTracker",
     description:
-      "In progress...",
+      "Built a full-stack lightweight bill tracking application designed to help users easily manage recurring expenses, payment dates, and upcoming bills in a clean, distraction-free interface. The application is production-ready and deployed on Vercel, with a frontend built using Next.js, TypeScript, and Tailwind CSS, and authentication and backend powered by Supabase. Set up a CI/CD pipeline to automate builds, testing, and deployment, ensuring consistent and reliable releases.",
+    date: "5/20/2026 - Present",
+  },
+  {
+    title: "Developing Websites for Small Businesses",
+    description: "In progress...",
     date: "🔴 IN PROGRESS 5/19/2026 - Present",
   },
 ];
