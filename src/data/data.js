@@ -124,7 +124,7 @@ export const roadmap = [
     date: "5/20/2026 - Present",
   },
   {
-    title: "Developing Websites for Small Businesses",
+    title: "Developing Websites for Businesses",
     description: "In progress...",
     date: "🔴 IN PROGRESS 5/19/2026 - Present",
   },
